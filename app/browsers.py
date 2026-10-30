@@ -10,7 +10,7 @@ import os
 import sys
 import json
 
-EDGE_EXTENSION_ID = ""      # from Edge Add-ons, e.g. "abcdefghijklmnopabcdefghijklmnop"
+EDGE_EXTENSION_ID = "acjfdjfefccblbabbippehgdffmdeood"      # from Edge Add-ons, e.g. "abcdefghijklmnopabcdefghijklmnop"
 CHROME_EXTENSION_ID = ""    # from the Chrome Web Store (optional)
 
 EDGE_UPDATE_URL = "https://edge.microsoft.com/extensionwebstorebase/v1/crx"
